@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-Airbnb/static/css/main.4621d3e2.css",
+    "main.js": "/react-Airbnb/static/js/main.65cdc3c2.js",
+    "static/media/cards3.jpeg": "/react-Airbnb/static/media/cards3.4f5a7e1d7058ce574381.jpeg",
+    "static/media/cards1.png": "/react-Airbnb/static/media/cards1.f4f7e94c0628d1a97180.png",
+    "static/media/herogroupImg.png": "/react-Airbnb/static/media/herogroupImg.dde4bb4733d06348827b.png",
+    "static/media/bootstrap-icons.woff?": "/react-Airbnb/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/react-Airbnb/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/cards2.jpeg": "/react-Airbnb/static/media/cards2.f532d6fa6898b270f3f9.jpeg",
+    "static/media/Airbnb_Logo_Bélo.svg.png": "/react-Airbnb/static/media/Airbnb_Logo_Bélo.svg.8377d31b85c08074c275.png",
+    "index.html": "/react-Airbnb/index.html",
+    "main.4621d3e2.css.map": "/react-Airbnb/static/css/main.4621d3e2.css.map",
+    "main.65cdc3c2.js.map": "/react-Airbnb/static/js/main.65cdc3c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4621d3e2.css",
+    "static/js/main.65cdc3c2.js"
+  ]
+}
