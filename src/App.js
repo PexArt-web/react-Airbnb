@@ -1,7 +1,6 @@
 import Cards from "./components/Cards";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
-import Learn from "./components/Practice";
 import { data } from "./components/data";
 // console.log(data);
 
@@ -19,7 +18,6 @@ function App() {
 
   return (
     <div className="App">
-      {/* <Learn/> */}
       <header className="App-header container">
         <Navbar />
       </header>
