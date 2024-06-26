@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.nav--img {
+  max-width: 100px;
+}
+nav {
+  height: 87px;
+  display: flex;
+  padding: 20px 36px;
+  box-shadow: 0px 2.99256px 7.4564px rgba(0, 0, 0, 0.1);
+}
+.hero {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.heropng {
+  max-width: 800px;
+  align-self: center;
+}
+.hero--header {
+  margin-bottom: 16px;
+}
+.hero--text {
+  margin-top: 0;
+}
+.card--container{     
+  display: flex;   
+  flex-wrap: nowrap;
+  gap: 20px;
+  overflow-x: auto;        
+}
+.card{
+  position: relative;
+  font-size: 12px;
+  flex: 0 0 auto;      
+  display: flex;         
+  flex-direction: column;
+}
+.card--img {
+  width: 176px;
+  height: 235px;
+  border-radius: 9px;
+}
+.card--title {
+  font-size: 12px;
+  line-height: 13.2px;
+  color: #222222;
+}
+.card--price {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 13.2px;
+  color: #222222;
+}
+.card--price_person {
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 13.2px;
+}
+.card--wrap {
+  padding: 20px;
+}
+.card--ratingCont {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+}
+.star--icon {
+  color: #fe395c;
+}
+.card--elipse6 {
+  width: 3px;
+  height: 3px;
+  background-color: #918e9b;
+}
+.contact--card {
+  margin: 4px;
+  border: 2px solid rgb(0, 0, 0);
+  width: fit-content;
+}
+.card--count,
+.card--country {
+  font-size: 12px;
+  font-weight: 300;
+  color: #918e9b;
+}
+.card--badge{
+  position: absolute;
+    top: 30px;
+    left: 30px;
+    background-color: white;
+    padding: 5px 7px;
+    border-radius: 2px;
+    font-weight: bold;
+}
